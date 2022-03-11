@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#description {
+  height: 4rem;
+}
+input {
+  width: 15rem;
+  margin: 0.3rem;
+}
+#tittle {
+  height: 1.5rem;
+}
+form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+button {
+  width: 4rem;
+}
+.box {
+  border: 1px solid black;
+  width: 20%;
+  border-radius: 1rem;
+  min-height: 7rem;
+}
+.container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+.button-box {
+  display: flex;
+  flex-direction: row;
+}
